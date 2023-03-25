@@ -23,10 +23,9 @@ div{
     
 }
 .a1{
-    background-color: black;
+    background-image: linear-gradient(rgb(18, 36, 199),rgb(60, 216, 40));
     border: 2px solid black;
     border-radius: 10px;
     outline: 1px solid blue;
-    color: white;
 }
 
