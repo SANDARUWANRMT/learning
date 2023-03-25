@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
 body{
-    background-image: url(../b.jpg);
-    background-size: cover;
+    background-image: url(../a.jpg);
+    background-size:auto;
+    font-family: 'Roboto Slab', serif;
+    color: azure;
     
 }
 h1{
-    color: black;
-    text-decoration: underline dashed blue;
+    color: rgb(255, 255, 255);
+    text-decoration: underline dashed rgb(77, 77, 156);
 }
