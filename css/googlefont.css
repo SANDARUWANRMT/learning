@@ -1,0 +1,9 @@
+body{
+    background-image: url(../b.jpg);
+    background-size: cover;
+    
+}
+h1{
+    color: black;
+    text-decoration: underline dashed blue;
+}
